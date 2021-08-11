@@ -1,0 +1,21 @@
+MMR Calculator is a machine learning based program that attempts to calculate a player's hidden MMR.
+Features will include:
+    - match evaluation:
+        - Chances of winning
+    - lobby evaluation:
+        - Dodge assist, should you dodge this game?
+
+What data do I need?
+ - Games played 
+ - Win rate
+ - Champion win rates
+ - Last 20 games kda
+ - Last 20 games wr
+
+How will I get all the data?
+ - Web scrape op.gg
+ - Save all information into a .csv file
+
+misc.
+ - Each lobby will have to be evaluated against the player's own rank
+ 
