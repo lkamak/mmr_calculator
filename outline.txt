@@ -19,3 +19,5 @@ How will I get all the data?
 misc.
  - Each lobby will have to be evaluated against the player's own rank
  
+Webscraper:
+ - Cannot scrape websites that use javascript to load some of their contents. The fix is to use Selenium with the ChromeDriver in headless mode. 

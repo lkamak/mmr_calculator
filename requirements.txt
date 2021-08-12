@@ -1,0 +1,4 @@
+selenium
+phantomjs
+requests
+beautifulsoup
